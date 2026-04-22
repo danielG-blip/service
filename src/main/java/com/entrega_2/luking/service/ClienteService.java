@@ -1,5 +1,4 @@
 package com.entrega_2.luking.service;
 
-public class ClienteService {
-    
+public class ClienteService {    
 }
