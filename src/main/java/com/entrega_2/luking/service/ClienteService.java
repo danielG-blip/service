@@ -1,4 +1,8 @@
 package com.entrega_2.luking.service;
 
-public class ClienteService {    
+import org.springframework.stereotype.Service;
+
+@Service
+public class ClienteService {   
+
 }
